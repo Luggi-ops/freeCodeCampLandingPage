@@ -93,9 +93,18 @@ h2{
     align-items: center;
     background-color: #45b6ed;
     padding: 2rem;
+    position: fixed;
+    z-index: 100;
+    margin-bottom: 4rem;
+    width: 100%;
+    
 }
 
-#header .logo img{
+#header-img{
+    width: 20rem;
+}
+
+.logo img{
     width: 20rem;
 }
 
@@ -105,28 +114,54 @@ h2{
     justify-content: space-around;
 }
 
-#nav-bar ul li a{
+.nav-link{
     text-decoration: none;
-    color: #f2efdb;
+    color: #f2efdb!important;
     margin-right: 1rem;
     font-size: 1.4rem;
     font-weight: 300;
     border-bottom: 2px solid transparent;
     transition: border .5s;
+    max-width: max-content;
 }
 
-#nav-bar ul li a:hover{
+.nav-link:hover{
     border-bottom: 2px solid #f2efdb;
 }
 
-/**Seccion superior**/
+.navbar-light .navbar-toggler{
+    border: none;
+}
+
+.navbar-light .navbar-toggler-icon{
+    background-image: url(../img/hamburger-menu.png);
+    width: 3rem;
+    height: 3rem;
+}
+
+button:focus{
+    outline: none;
+}
+
+/**TOP section**/
 
 .top-section{
     min-height: 70vh;
-    background-color: #f1f1f1;
+    background: #f1f1f1;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    padding: 15rem 0 3rem 0;
+}
+
+.top-section::before{
+    content: url(../img/bg-2.png);
+    position: absolute;
+    z-index: 10;
+    width: 10rem;
+    left: -91rem;
+    top: -38.3rem;
 }
 
 .top-section-img{
@@ -137,15 +172,19 @@ h2{
     background-image: url(../img/top-section.jpg);
     position: relative;
     margin-right: 3rem;
+    z-index: 50;
 }
 
 .top-section-img img{
     position: absolute;
     left: -15rem;
+    z-index: 50;
 }
 
 .top-section-text{
     color: #45b6ed;
+    position: relative;
+    z-index: 50;
 }
 
 /**Waves**/
@@ -163,6 +202,7 @@ h2{
     height: 50rem;
     overflow: hidden;
     position: relative;
+    z-index: 50;
 }
 
 #video{
@@ -181,7 +221,11 @@ h2{
 
 .spot-container-text{
     flex: 0 0 50%;
-    margin-left: 3rem;
+    margin: 3rem 0 0 3rem;
+}
+
+.spot-container-text img{
+    width: 20rem;
 }
 
 /**About**/
@@ -190,7 +234,7 @@ h2{
     background-color: #f1f1f1;
     color: #45b6ed;
     font-size: 1.5rem;
-    padding: 3rem;
+    padding: 23rem 3rem;
 }
 .about-heading{
     text-align: center;
@@ -201,9 +245,14 @@ h2{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 /**Products**/
+
+#products{
+    padding: 6rem 0;
+}
 
 .products{
     padding: 3rem 0;
@@ -302,6 +351,15 @@ h2{
     outline: none;
     background-color: #f1f1f1;
     text-align: center;
+    width: 12rem;
+    transform: scale(1);
+    font-size: 1.2rem;
+    transition: transform .5s;
+}
+
+.form-content input[type="email"]:focus{
+    transform: scale(1.3);
+    width: 16rem;
 }
 
 /**Footer**/
@@ -406,4 +464,65 @@ h2{
 
 .desarrollador ul img{
     width: 40%;
+}
+
+/**Media queries**/
+
+@media screen and (max-width: 780px){
+
+    /**Generals**/
+
+    .container{
+        max-width: 100%;
+    }
+
+    /**Top section**/
+    .top-section-text{
+        text-align: center;
+    }
+
+    .top-section-img{
+        margin-right: 0;
+    }
+
+    .waves-1{
+        bottom: 0;
+    }
+
+    /**Spot**/
+
+    .video-container{
+        height: 35rem;
+    }
+
+    #video{
+        bottom: 0;
+    }
+
+    .spot-container-text{
+        margin: 3rem 0 0 0;
+        text-align: center;
+        flex: 0 0 100%
+    }
+
+    .spot-container-text img{
+        width: 10rem;
+    }
+
+    /**About**/
+
+    .about-group{
+        text-align: center;
+    }
+
+    /**Newsletter**/
+    .newsletter{
+        padding: 10rem 0;
+    }
+
+    #form{
+        width: 25rem;
+    }
+
+
 }

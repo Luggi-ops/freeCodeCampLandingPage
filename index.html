@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- CSS Bootstrap to Navbar -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
     <!-- Fuentes de google -->
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&display=swap"
         rel="stylesheet">
@@ -18,17 +22,22 @@
 
     <!-- HEADER -->
 
-    <header id="header">
-        <div class="logo">
-            <img src="assets/img/logo-lorem.png" alt="logo-pizzabit" id="header-img">
+    <header id="header" class="navbar navbar-expand-lg navbar-light">
+        <div class="logo navbar-brand">
+            <a href="index.html">
+                <img src="assets/img/logo-lorem.png" alt="logo" id="header-img">
+            </a>
         </div>
-
-        <nav id="nav-bar">
-            <ul>
-                <li><a href="" class="nav-link">Home</a></li>
-                <li><a href="#products" class="nav-link">Products</a></li>
-                <li><a href="#about" class="nav-link">About</a></li>
-                <li><a href="#newsletter" class="nav-link">Newsletter register</a></li>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <nav class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="#products" class="nav-link">Products</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="#newsletter" class="nav-link">Newsletter register</a></li>
             </ul>
         </nav>
     </header>
@@ -39,7 +48,7 @@
         <div class="top-section-text">
             <h1>Welcome to Lorem Lipsum</h1>
             <p>Let's jump together</p>
-            <a href="#" class="btn btn-top">Buy now</a>
+            <a href="#products" class="btn btn-top">Buy now</a>
         </div>
         <figure class="top-section-img">
             <img src="assets/img/top-section.jpg" alt="">
@@ -222,8 +231,10 @@
         <div class="desarrollador">
             <p>&copy;2020 code by Luis Gudiño Dufour</p>
             <ul>
-                <li><a href="https://github.com/Luggi-ops" target="_blank"><img src="assets/img/Luis Gudiño/github.png" alt="github"></a></li>
-                <li><a href="https://www.linkedin.com/in/luis-gudi%C3%B1o-dufour-896892168/" target="_blank"><img src="assets/img/Luis Gudiño/linkedin.png" alt=""></a></li>
+                <li><a href="https://github.com/Luggi-ops" target="_blank"><img src="assets/img/Luis Gudiño/github.png"
+                            alt="github"></a></li>
+                <li><a href="https://www.linkedin.com/in/luis-gudi%C3%B1o-dufour-896892168/" target="_blank"><img
+                            src="assets/img/Luis Gudiño/linkedin.png" alt=""></a></li>
             </ul>
         </div>
     </footer>
@@ -231,6 +242,17 @@
     <!-- Script de evaluación de freeCodeCamp https://www.freecodecamp.org/ -->
 
     <script type="text/javascript" src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+    <!-- JS Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>

@@ -1,0 +1,3500 @@
+
+
+			<html xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+	
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+				<style>
+					<!--table
+						tr 
+							{vertical-align:top;}
+						br
+							{mso-data-placement:same-cell;}
+					-->
+				</style>
+					<!--[if gte mso 9]>
+						<xml>
+							<x:ExcelWorkbook>
+								<x:ExcelWorksheets>
+									<x:ExcelWorksheet>
+										<x:Name>Lista de Incidencias</x:Name>
+										<x:WorksheetOptions>
+											<x:Selected/>
+										</x:WorksheetOptions>
+									</x:ExcelWorksheet>
+								</x:ExcelWorksheets>
+							</x:ExcelWorkbook>
+						</xml>
+					<![endif]
+					-->
+				</head>
+	
+				<body>
+					<table>
+						<tr>
+	
+							<td x:str>
+								Incidencia
+							</td>
+	
+							<td x:str>
+								Resumen
+							</td>
+	
+							<td x:str>
+								Notificado por
+							</td>
+	
+							<td x:str>
+								Cliente
+							</td>
+	
+							<td x:str>
+								Prioridad interna
+							</td>
+	
+							<td x:str>
+								Estado
+							</td>
+	
+							<td x:str>
+								Propietario
+							</td>
+	
+							<td x:str>
+								Nombre Propietario
+							</td>
+	
+							<td x:str>
+								Grupo propietario
+							</td>
+	
+							<td x:str>
+								Artículo de configuración
+							</td>
+	
+							<td x:str>
+								Ubicación
+							</td>
+	
+							<td x:str>
+								Sistemas externos
+							</td>
+	
+							<td x:str>
+								Registro externo
+							</td>
+	
+							<td x:str>
+								Fecha de Creación
+							</td>
+	
+							<td x:str>
+								Fecha de Modificación
+							</td>
+	
+						</tr>
+	
+								<tr>
+	
+													<td x:str>1000709</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U187549</td>
+	
+													<td x:str>30500003193</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U187549</td>
+	
+													<td x:str>Patricia&nbsp;Gabriela&nbsp;Gennari</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>208786474</td>
+	
+													<td x:str>208786474</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>12/03/20 13:28:32</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>12/03/20 13:47:33</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1042140</td>
+	
+													<td x:str>LENTITUD</td>
+	
+													<td x:str>U166884</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>5</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U166884</td>
+	
+													<td x:str>Mariela&nbsp;Susana&nbsp;Chiapello</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>229379497</td>
+	
+													<td x:str>229379497</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/03/20 08:45:56</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/03/20 09:16:43</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1053512</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>131981215</td>
+	
+													<td x:str>131981215</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/04/20 06:39:15</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/04/20 06:50:37</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1090056</td>
+	
+													<td x:str>RI.:&nbsp;&nbsp;Congestion&nbsp;0810&nbsp;AMBA.&nbsp;NO&nbsp;INGRESAN&nbsp;LLAMADAS</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U185150</td>
+	
+													<td x:str>Luca&nbsp;Pablo&nbsp;Marcelo</td>
+	
+													<td x:str>NCSN-FO</td>
+	
+													<td x:str>354628</td>
+	
+													<td x:str>354628</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>16/04/20 12:58:36</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>17/04/20 18:34:45</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1101833</td>
+	
+													<td x:str>PÉRDIDA&nbsp;DE&nbsp;PAQUETES</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>209177573</td>
+	
+													<td x:str>209177573</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/04/20 11:23:44</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/04/20 11:29:29</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1110731</td>
+	
+													<td x:str>Problema&nbsp;DNS.</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>Fernandez&nbsp;Leonardo</td>
+	
+													<td x:str>NCSN-PE</td>
+	
+													<td x:str>68154605</td>
+	
+													<td x:str>68154605</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/04/20 13:35:33</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/06/20 10:11:53</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1115855</td>
+	
+													<td x:str>Sin&nbsp;servicio.</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>Fernandez&nbsp;Leonardo</td>
+	
+													<td x:str>NCSN-PE</td>
+	
+													<td x:str>557438</td>
+	
+													<td x:str>557438</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/04/20 09:17:24</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/04/20 09:41:14</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1115907</td>
+	
+													<td x:str>INCONVENIENTE&nbsp;CON&nbsp;IP&nbsp;FIJA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>151094838</td>
+	
+													<td x:str>151094838</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/04/20 09:33:11</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/04/20 09:46:17</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1154008</td>
+	
+													<td x:str>&#040;Generar&nbsp;SR&nbsp;al&nbsp;CRAM&#041;&nbsp;Falla&nbsp;placa&nbsp;encriptadora&nbsp;DWDM&nbsp;ICBC&nbsp;&#040;656IB03&nbsp;-&nbsp;COD&nbsp;NTK530QE&#041;</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>CRAM-BSAS</td>
+	
+													<td x:str>748435</td>
+	
+													<td x:str>748435</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>13/05/20 12:27:30</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>22/06/20 10:15:24</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1187171</td>
+	
+													<td x:str>Falla&nbsp;08105556733&nbsp;//&nbsp;08108887788</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>NCSN-FO</td>
+	
+													<td x:str>342103</td>
+	
+													<td x:str>342103</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/05/20 11:58:47</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/05/20 13:36:33</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1219452</td>
+	
+													<td x:str>LENTITUD</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>5</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>170382162</td>
+	
+													<td x:str>170382162</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/06/20 12:27:20</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/06/20 12:32:17</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1222797</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620380</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U190295</td>
+	
+													<td x:str>Pizarro&nbsp;Lombardi&nbsp;Oscar&nbsp;Alberto</td>
+	
+													<td x:str>NCSN-MAD</td>
+	
+													<td x:str>319654</td>
+	
+													<td x:str>319654</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>12/06/20 15:28:51</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>16/06/20 10:44:55</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1244307</td>
+	
+													<td x:str>Problema&nbsp;indoor</td>
+	
+													<td x:str>U178708</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>APEAMBAPRB</td>
+	
+													<td x:str>3492666154</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>22/06/20 17:26:26</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>25/06/20 11:09:01</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1252951</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>221912824</td>
+	
+													<td x:str>221912824</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>25/06/20 14:43:47</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>25/06/20 14:52:02</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1274133</td>
+	
+													<td x:str>ICBC&nbsp;-&nbsp;REF:660879&nbsp;-&nbsp;LIN:2803692</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>660879</td>
+	
+													<td x:str>660879</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/06/20 16:48:04</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/07/20 07:17:54</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1278725</td>
+	
+													<td x:str>No&nbsp;tiene&nbsp;servicio&nbsp;4G</td>
+	
+													<td x:str>U178708</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>APEAMBAPRB</td>
+	
+													<td x:str>3426106996</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/07/20 16:59:39</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/07/20 12:03:37</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1297846</td>
+	
+													<td x:str>Perdidas</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>Fernandez&nbsp;Leonardo</td>
+	
+													<td x:str>NCSN-PE</td>
+	
+													<td x:str>642888</td>
+	
+													<td x:str>642888</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>6/07/20 11:31:51</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/08/20 14:03:52</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1312899</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO&nbsp;/PLEX</td>
+	
+													<td x:str>U900213</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U190295</td>
+	
+													<td x:str>Pizarro&nbsp;Lombardi&nbsp;Oscar&nbsp;Alberto</td>
+	
+													<td x:str>NCSN-MAD</td>
+	
+													<td x:str>248108</td>
+	
+													<td x:str>248108</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>12/07/20 09:42:53</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>22/07/20 15:45:27</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1330704</td>
+	
+													<td x:str>degradacion</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>654507</td>
+	
+													<td x:str>654507</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>17/07/20 09:08:13</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>17/07/20 10:18:03</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1335921</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U625764</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>NCSN-FO</td>
+	
+													<td x:str>221274</td>
+	
+													<td x:str>221274</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>18/07/20 11:34:23</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/07/20 12:29:55</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1337068</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U900213</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U175598</td>
+	
+													<td x:str>Hector&nbsp;Argañaraz</td>
+	
+													<td x:str>NCSN-FO</td>
+	
+													<td x:str>260185</td>
+	
+													<td x:str>260185</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>19/07/20 10:21:43</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>20/07/20 09:55:54</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1338004</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>65437398</td>
+	
+													<td x:str>65437398</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>20/07/20 10:08:42</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>20/07/20 10:39:22</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1351192</td>
+	
+													<td x:str>Sin&nbsp;servicio</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>641719</td>
+	
+													<td x:str>641719</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/07/20 09:15:41</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/07/20 09:31:50</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1351701</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U620405</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U620405</td>
+	
+													<td x:str>Leonardo&nbsp;Garro&nbsp;Vorsatz</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>122782610</td>
+	
+													<td x:str>122782610</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/07/20 11:38:14</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/07/20 11:51:19</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1357457</td>
+	
+													<td x:str>Sin&nbsp;servicio</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>654507</td>
+	
+													<td x:str>654507</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/07/20 09:55:11</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/07/20 10:22:03</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1371856</td>
+	
+													<td x:str>VPN&nbsp;ICBC&nbsp;Ref:713633&nbsp;Lin:2766186&nbsp;+&nbsp;VPN&nbsp;GIRE&nbsp;Ref:584350&nbsp;+&nbsp;INTEGRA&nbsp;GIRE&nbsp;REF:584349</td>
+	
+													<td x:str>U620436</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>NCSN-FO</td>
+	
+													<td x:str>713633</td>
+	
+													<td x:str>713633</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/07/20 18:51:54</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>31/07/20 15:04:08</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1372174</td>
+	
+													<td x:str>O.S.D.E&nbsp;-&nbsp;Parque&nbsp;Patricios&nbsp;Ref:618668&nbsp;/618670&nbsp;/618670&nbsp;/629211&nbsp;&nbsp;635583</td>
+	
+													<td x:str>U900206</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>NCSN-FO</td>
+	
+													<td x:str>618662</td>
+	
+													<td x:str>618662</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/07/20 20:22:30</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>31/07/20 15:21:22</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1374547</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620435</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U620435</td>
+	
+													<td x:str>Martin&nbsp;Ongaro</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>347349</td>
+	
+													<td x:str>347349</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>31/07/20 13:46:13</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>31/07/20 14:08:04</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1397368</td>
+	
+													<td x:str>NO CONECTA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>63852981</td>
+	
+													<td x:str>63852981</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/08/20 09:47:47</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/08/20 10:01:19</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1429596</td>
+	
+													<td x:str>sin&nbsp;servicio</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>557410</td>
+	
+													<td x:str>557410</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/08/20 14:54:55</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>13/08/20 07:22:21</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1429703</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>165392</td>
+	
+													<td x:str>165392</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/08/20 15:09:52</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>12/08/20 15:03:42</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1440175</td>
+	
+													<td x:str>microcortes&nbsp;y&nbsp;lentitud</td>
+	
+													<td x:str>U611765</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U507229</td>
+	
+													<td x:str>Juan&nbsp;Gabriel&nbsp;Heit</td>
+	
+													<td x:str>NCMDA-NOAN</td>
+	
+													<td x:str>211835</td>
+	
+													<td x:str>211835</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>12/08/20 15:32:15</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>13/08/20 15:54:58</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1481441</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U504242</td>
+	
+													<td x:str>30685376349</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>3564437505</td>
+	
+													<td x:str>3564437505</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>18/08/20 18:49:49</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>18/08/20 18:53:55</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1485116</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U595772</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>3401422738</td>
+	
+													<td x:str>3401422738</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>19/08/20 10:53:40</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>19/08/20 10:56:46</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1497521</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U592768</td>
+	
+													<td x:str>30500011072</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>663746</td>
+	
+													<td x:str>663746</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/08/20 03:15:24</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/08/20 03:38:11</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1499903</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U595776</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>3437422026</td>
+	
+													<td x:str>3437422026</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/08/20 11:22:05</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/08/20 11:31:41</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1521423</td>
+	
+													<td x:str>CORTE&nbsp;FO&nbsp;O8PRX01&nbsp;|&nbsp;BBVA&nbsp;|&nbsp;SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U617379</td>
+	
+													<td x:str>30500003193</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>601002</td>
+	
+													<td x:str>601002</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/08/20 16:10:42</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 11:49:38</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1521492</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U617379</td>
+	
+													<td x:str>30500003193</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>601003</td>
+	
+													<td x:str>601003</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/08/20 16:20:11</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 12:16:05</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1541033</td>
+	
+													<td x:str>NO&nbsp;SE&nbsp;PUEDE&nbsp;EFECTUAR&nbsp;COMUNICACIÓN</td>
+	
+													<td x:str>U900210</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>354892</td>
+	
+													<td x:str>354892</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/08/20 17:38:45</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/08/20 19:01:50</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1542371</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO&nbsp;||&nbsp;ICBC&nbsp;-&nbsp;DDE&nbsp;541145248800</td>
+	
+													<td x:str>U567498</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>NC-ADMT</td>
+	
+													<td x:str>346432</td>
+	
+													<td x:str>346432</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>27/08/20 22:15:06</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/08/20 03:47:00</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1545405</td>
+	
+													<td x:str>NO CONECTA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>156873050</td>
+	
+													<td x:str>156873050</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/08/20 13:00:52</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/08/20 13:20:48</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1551057</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U625764</td>
+	
+													<td x:str>30500003193</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>887406</td>
+	
+													<td x:str>887406</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>29/08/20 14:42:02</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>25/09/20 14:41:42</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1560392</td>
+	
+													<td x:str>OSDE&nbsp;|&nbsp;MARTINEZ&nbsp;|&nbsp;user&nbsp;y&nbsp;pass</td>
+	
+													<td x:str>U519541</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>5</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>322779</td>
+	
+													<td x:str>322779</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>31/08/20 15:50:21</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/10/20 17:27:55</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1560458</td>
+	
+													<td x:str>Pass&nbsp;recovery</td>
+	
+													<td x:str>U519541</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>322778</td>
+	
+													<td x:str>322778</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>31/08/20 16:01:47</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/09/20 16:38:57</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1560469</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U519541</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>718442</td>
+	
+													<td x:str>718442</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>31/08/20 16:05:31</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/09/20 13:01:44</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1570057</td>
+	
+													<td x:str>MICROCORTES&nbsp;EN&nbsp;EL&nbsp;SERVICIO</td>
+	
+													<td x:str>U184128</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str>U184128</td>
+	
+													<td x:str>Paula&nbsp;Daniela&nbsp;Troncoso</td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>167327781</td>
+	
+													<td x:str>167327781</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/09/20 15:03:07</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>10/09/20 15:38:20</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1615237</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620380</td>
+	
+													<td x:str>30685376349</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>3756481724</td>
+	
+													<td x:str>3756481724</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>8/09/20 16:09:15</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>8/09/20 16:23:12</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1617415</td>
+	
+													<td x:str>INCONVENIENTE&nbsp;CON&nbsp;EL&nbsp;SERVICIO</td>
+	
+													<td x:str>U620434</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>630397</td>
+	
+													<td x:str>630397</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>9/09/20 07:16:09</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>9/09/20 08:09:47</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1624218</td>
+	
+													<td x:str>DDEIP&nbsp;-&nbsp;NO&nbsp;SE&nbsp;PUEDE&nbsp;EFECTUAR&nbsp;COMUNICACIÓN</td>
+	
+													<td x:str>U597464</td>
+	
+													<td x:str>30500040455</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>939635</td>
+	
+													<td x:str>939635</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>10/09/20 10:40:12</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>10/09/20 17:32:13</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1629878</td>
+	
+													<td x:str>Sin&nbsp;servicio</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>529997</td>
+	
+													<td x:str>529997</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/09/20 09:20:13</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/09/20 11:11:47</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1633642</td>
+	
+													<td x:str>FA</td>
+	
+													<td x:str>U178708</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>SOC-SD</td>
+	
+													<td x:str>1161192152</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/09/20 18:43:07</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/10/20 17:34:18</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1646015</td>
+	
+													<td x:str>Sin&nbsp;servcio</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>545184</td>
+	
+													<td x:str>545184</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>14/09/20 17:34:30</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>14/09/20 18:20:28</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1654537</td>
+	
+													<td x:str>Sin&nbsp;servicio</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>545824</td>
+	
+													<td x:str>545824</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>16/09/20 09:33:13</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>16/09/20 18:47:03</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1662818</td>
+	
+													<td x:str>DESCONEXIONES&nbsp;RECURRENTES</td>
+	
+													<td x:str>U177081</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>156873050</td>
+	
+													<td x:str>156873050</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>17/09/20 14:00:55</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 22:45:09</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1664854</td>
+	
+													<td x:str>DDE&nbsp;IP&nbsp;-&nbsp;NO&nbsp;SE&nbsp;PUEDE&nbsp;EFECTUAR&nbsp;COMUNICACIÓN</td>
+	
+													<td x:str>U620389</td>
+	
+													<td x:str>30500040455</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>939636</td>
+	
+													<td x:str>939636</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>17/09/20 18:47:57</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/09/20 10:51:45</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1665265</td>
+	
+													<td x:str>NO&nbsp;NAVEGA,&nbsp;--&nbsp;PxC</td>
+	
+													<td x:str>U620437</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>322781</td>
+	
+													<td x:str>322781</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>17/09/20 20:09:09</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/10/20 13:52:05</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1668045</td>
+	
+													<td x:str>NO CONECTA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>238203205</td>
+	
+													<td x:str>238203205</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>18/09/20 11:28:12</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>18/09/20 11:47:34</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1682921</td>
+	
+													<td x:str>RECLAMOS&nbsp;CORPORATIVOS&nbsp;\&nbsp;MOVIL&nbsp;\&nbsp;TOTAL&nbsp;\&nbsp;RECLAMOS&nbsp;DE&nbsp;RED</td>
+	
+													<td x:str>U186810</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>APEAMBAPRB</td>
+	
+													<td x:str>3534011316</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 11:57:34</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 18:58:12</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1684985</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U611761</td>
+	
+													<td x:str>30685376349</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>3534538012</td>
+	
+													<td x:str>3534538012</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 17:35:18</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 17:40:08</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1685011</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U611761</td>
+	
+													<td x:str>30685376349</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>3534537975</td>
+	
+													<td x:str>3534537975</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 17:40:15</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 17:45:18</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1685122</td>
+	
+													<td x:str>PASE&nbsp;A&nbsp;RED</td>
+	
+													<td x:str>U604626</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U604626</td>
+	
+													<td x:str>MARIANO&nbsp;GONZALEZ</td>
+	
+													<td x:str>DRC-HFC/FT</td>
+	
+													<td x:str>98685306</td>
+	
+													<td x:str>98685306</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 18:04:17</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/09/20 18:08:45</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1696094</td>
+	
+													<td x:str>DDE&nbsp;IP.:&nbsp;&nbsp;&nbsp;&nbsp;NO&nbsp;SE&nbsp;PUEDE&nbsp;EFECTUAR&nbsp;COMUNICACIÓN</td>
+	
+													<td x:str>U504245</td>
+	
+													<td x:str>30500040455</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>904423</td>
+	
+													<td x:str>904423</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>23/09/20 13:34:09</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/09/20 19:00:59</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1696163</td>
+	
+													<td x:str>DDE&nbsp;IP&nbsp;-&nbsp;NO&nbsp;SE&nbsp;PUEDE&nbsp;EFECTUAR&nbsp;COMUNICACIÓN</td>
+	
+													<td x:str>U504245</td>
+	
+													<td x:str>30500040455</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>939635</td>
+	
+													<td x:str>939635</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>23/09/20 13:46:39</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/09/20 19:08:14</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1696196</td>
+	
+													<td x:str>DDE&nbsp;IP&nbsp;-&nbsp;NO&nbsp;SE&nbsp;PUEDE&nbsp;EFECTUAR&nbsp;COMUNICACIÓN</td>
+	
+													<td x:str>U504245</td>
+	
+													<td x:str>30500040455</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>904424</td>
+	
+													<td x:str>904424</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>23/09/20 13:52:57</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/09/20 10:15:45</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1703836</td>
+	
+													<td x:str>RECLAMOS&nbsp;CORPORATIVOS&nbsp;\&nbsp;MOVIL&nbsp;\&nbsp;TOTAL&nbsp;\&nbsp;RECLAMOS&nbsp;DE&nbsp;RED</td>
+	
+													<td x:str>U186810</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>APELITORAL</td>
+	
+													<td x:str>3416204268</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/09/20 17:25:50</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/09/20 16:25:02</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1703964</td>
+	
+													<td x:str>SERVICIOS EN FALLA</td>
+	
+													<td x:str>U620431</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U586681</td>
+	
+													<td x:str>Sebastián&nbsp;Cáceres</td>
+	
+													<td x:str>NCSN-DC</td>
+	
+													<td x:str>241271</td>
+	
+													<td x:str>241271</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/09/20 17:45:46</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>24/09/20 19:05:40</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1715211</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U177081</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>PENDING</td>
+	
+													<td x:str>U159110</td>
+	
+													<td x:str>Hugo&nbsp;Borgoglio</td>
+	
+													<td x:str>NCMDA-MEDI</td>
+	
+													<td x:str>662378</td>
+	
+													<td x:str>662378</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>26/09/20 13:50:44</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/09/20 10:20:24</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1717226</td>
+	
+													<td x:str>SIN LINK FO EN SCO&nbsp;||&nbsp;PEND&nbsp;GESTIONAR&nbsp;SERVICE&nbsp;UM</td>
+	
+													<td x:str>U620449</td>
+	
+													<td x:str>30500003193</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>72361488</td>
+	
+													<td x:str>72361488</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>26/09/20 18:23:20</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/09/20 16:28:22</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1717567</td>
+	
+													<td x:str>INCONVENIENTE&nbsp;CON&nbsp;EL&nbsp;SERVICIO</td>
+	
+													<td x:str>U900205</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>PENDING</td>
+	
+													<td x:str>U519266</td>
+	
+													<td x:str>Ezequiel&nbsp;Eduardo&nbsp;Tocaimaza</td>
+	
+													<td x:str>NCSN-DC</td>
+	
+													<td x:str>241271</td>
+	
+													<td x:str>241271</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>26/09/20 19:10:58</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>26/09/20 20:37:46</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1723314</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620399</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U090241</td>
+	
+													<td x:str>Montero&nbsp;Fernando&nbsp;Martin</td>
+	
+													<td x:str>NCSN-MAD</td>
+	
+													<td x:str>545824</td>
+	
+													<td x:str>545824</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/09/20 06:55:34</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/09/20 17:10:47</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1731560</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620383</td>
+	
+													<td x:str>30500011072</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>INPROG</td>
+	
+													<td x:str>U620383</td>
+	
+													<td x:str>Maira&nbsp;Florencia&nbsp;Cachavilano</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>668515</td>
+	
+													<td x:str>668515</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>29/09/20 10:19:01</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>29/09/20 10:33:23</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1737444</td>
+	
+													<td x:str>SIN LINK FO EN SCO</td>
+	
+													<td x:str>U613627</td>
+	
+													<td x:str>33500005179</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>18545946</td>
+	
+													<td x:str>18545946</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/09/20 08:27:14</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/09/20 14:55:57</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1738169</td>
+	
+													<td x:str>VINCULO&nbsp;CAIDO</td>
+	
+													<td x:str>U183639</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>273691</td>
+	
+													<td x:str>273691</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/09/20 10:11:06</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/09/20 11:57:24</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1742015</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620436</td>
+	
+													<td x:str>30500011072</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>PENDING</td>
+	
+													<td x:str>U187270</td>
+	
+													<td x:str>Santiago&nbsp;Corvalan</td>
+	
+													<td x:str>NCMDA-MEDI</td>
+	
+													<td x:str>257057</td>
+	
+													<td x:str>257057</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>30/09/20 17:37:03</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 18:20:30</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1746541</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U187547</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>273691</td>
+	
+													<td x:str>273691</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/10/20 11:47:19</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/10/20 13:34:26</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1750591</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U901365</td>
+	
+													<td x:str>30685376349</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>3364434375</td>
+	
+													<td x:str>3364434375</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/10/20 21:14:33</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>1/10/20 21:21:41</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1754178</td>
+	
+													<td x:str>NO&nbsp;SE&nbsp;PUEDE&nbsp;EFECTUAR&nbsp;COMUNICACIÓN</td>
+	
+													<td x:str>U614373</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U090241</td>
+	
+													<td x:str>Montero&nbsp;Fernando&nbsp;Martin</td>
+	
+													<td x:str>NCSN-MAD</td>
+	
+													<td x:str>354892</td>
+	
+													<td x:str>354892</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/10/20 11:51:57</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/10/20 16:13:51</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1755337</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620448</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>229403974</td>
+	
+													<td x:str>229403974</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/10/20 14:42:34</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/10/20 19:18:30</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1755846</td>
+	
+													<td x:str>SERVICIO&nbsp;DE&nbsp;INTERNET&nbsp;MOVIL</td>
+	
+													<td x:str>U541741</td>
+	
+													<td x:str>30685376349</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>SOC-SD</td>
+	
+													<td x:str>3512516617</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/10/20 16:02:21</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 10:02:09</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1760446</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620449</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>531781</td>
+	
+													<td x:str>531781</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>3/10/20 13:16:19</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>4/10/20 11:15:58</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1760479</td>
+	
+													<td x:str>SIN LINK FO EN SCO&nbsp;||&nbsp;PEND&nbsp;BASE</td>
+	
+													<td x:str>U182621</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U606685</td>
+	
+													<td x:str>Petruzzo&nbsp;Delhon&nbsp;Gerardo&nbsp;Pablo</td>
+	
+													<td x:str>NCSN-MAD</td>
+	
+													<td x:str>97906994</td>
+	
+													<td x:str>97906994</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>3/10/20 13:29:13</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 11:37:09</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1760503</td>
+	
+													<td x:str>SIN LINK FO EN SCO&nbsp;|&nbsp;PEND&nbsp;BASE</td>
+	
+													<td x:str>U182621</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U608480</td>
+	
+													<td x:str>Medina&nbsp;Fernando&nbsp;Abel</td>
+	
+													<td x:str>NCSN-MAD</td>
+	
+													<td x:str>146901956</td>
+	
+													<td x:str>146901956</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>3/10/20 13:39:16</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>4/10/20 17:38:08</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1765376</td>
+	
+													<td x:str>ENLACE CAÍDO CON LINK FO EN SCO</td>
+	
+													<td x:str>U614145</td>
+	
+													<td x:str>30500003193</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>86956440</td>
+	
+													<td x:str>86956440</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 01:48:45</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 11:45:51</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1765674</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620434</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>640341</td>
+	
+													<td x:str>640341</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 06:52:06</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 12:35:40</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1765998</td>
+	
+													<td x:str>CON LINK FO ||&nbsp;[RFF]&nbsp;&#040;HOY/BASE&nbsp;SANTA&nbsp;FE&#041;</td>
+	
+													<td x:str>U613627</td>
+	
+													<td x:str>30500040455</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str>U605588</td>
+	
+													<td x:str>Flores&nbsp;Dario</td>
+	
+													<td x:str>NCSN-MAD</td>
+	
+													<td x:str>90988008</td>
+	
+													<td x:str>90988008</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 08:28:04</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>6/10/20 08:08:32</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1767117</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:str>U182621</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GI_FSER</td>
+	
+													<td x:str>209179824</td>
+	
+													<td x:str>209179824</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 10:45:02</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 11:10:09</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1768567</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U620383</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>PENDING</td>
+	
+													<td x:str>U620383</td>
+	
+													<td x:str>Maira&nbsp;Florencia&nbsp;Cachavilano</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>354892</td>
+	
+													<td x:str>354892</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 14:11:05</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 14:25:07</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1769742</td>
+	
+													<td x:str>SIN&nbsp;ACCESO&nbsp;A&nbsp;SITIO&nbsp;REMOTO</td>
+	
+													<td x:str>U620401</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>QUEUED</td>
+	
+													<td x:str>U620401</td>
+	
+													<td x:str>Jonatan&nbsp;David&nbsp;Fischer</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>104045850</td>
+	
+													<td x:str>104045850</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 17:38:10</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 18:37:38</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>1769915</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U620436</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>PENDING</td>
+	
+													<td x:str>U620436</td>
+	
+													<td x:str>Manuel&nbsp;Ignacio&nbsp;Ortega</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>133087320</td>
+	
+													<td x:str>133087320</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 18:04:57</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>5/10/20 18:23:50</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>836670</td>
+	
+													<td x:str>OSDE&nbsp;-&nbsp;08008888687&nbsp;-&nbsp;Pendiente&nbsp;x&nbsp;TASA&nbsp;Reme&nbsp;19905482</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>Fernandez&nbsp;Leonardo</td>
+	
+													<td x:str>NCSN-PE</td>
+	
+													<td x:str>327822</td>
+	
+													<td x:str>327822</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>22/01/20 10:27:15</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>7/02/20 10:08:43</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>840808</td>
+	
+													<td x:str>SIN&nbsp;LINK&nbsp;FO&nbsp;EN&nbsp;SCO</td>
+	
+													<td x:str>U614665</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U614665</td>
+	
+													<td x:str>Mancini&nbsp;Pablo&nbsp;Felix</td>
+	
+													<td x:str>GI_EDU</td>
+	
+													<td x:str>103992264</td>
+	
+													<td x:str>103992264</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>23/01/20 09:39:22</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>23/01/20 11:04:11</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>889160</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>208161660</td>
+	
+													<td x:str>208161660</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>6/02/20 09:05:15</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>6/02/20 09:19:15</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>902672</td>
+	
+													<td x:str>NO&nbsp;NAVEGA</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>30540088213</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U613680</td>
+	
+													<td x:str>Maria&nbsp;Andrea&nbsp;Quinteros</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>167327781</td>
+	
+													<td x:str>167327781</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>10/02/20 14:47:34</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>10/02/20 14:53:50</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>905812</td>
+	
+													<td x:str>OSDE&nbsp;Incidente&nbsp;en&nbsp;Teco&nbsp;DC</td>
+	
+													<td x:str>U195297</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U586681</td>
+	
+													<td x:str>Sebastián&nbsp;Cáceres</td>
+	
+													<td x:str>NCSN-DC</td>
+	
+													<td x:str>237914</td>
+	
+													<td x:str>237914</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/02/20 14:13:42</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>11/02/20 20:25:33</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>912299</td>
+	
+													<td x:str>OTRO&nbsp;RECLAMO</td>
+	
+													<td x:str>U610991</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:str></td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>241271</td>
+	
+													<td x:str>241271</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>13/02/20 13:28:04</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>25/08/20 18:15:34</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>931977</td>
+	
+													<td x:str>RECLAMOS&nbsp;CORPORATIVOS&nbsp;\&nbsp;CONECTIVIDAD&nbsp;\&nbsp;TOTAL&nbsp;\&nbsp;SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U090623</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>252110</td>
+	
+													<td x:str>252110</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>19/02/20 10:13:49</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>25/08/20 18:15:59</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>940180</td>
+	
+													<td x:str>RI&nbsp;:&nbsp;08008888687&nbsp;INTERURIS&nbsp;-&nbsp;Mal&nbsp;encaminado</td>
+	
+													<td x:str>U196436</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>INPROG</td>
+	
+													<td x:str>U611765</td>
+	
+													<td x:str>Carletta&nbsp;Jose&nbsp;Maria</td>
+	
+													<td x:str>GI-GC</td>
+	
+													<td x:str>327822</td>
+	
+													<td x:str>327822</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/02/20 15:32:00</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>21/07/20 14:01:00</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>951712</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO&nbsp;//&nbsp;ref&nbsp;657165&nbsp;//&nbsp;vsat</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str>U189315</td>
+	
+													<td x:str>Ferrari&nbsp;Ruben</td>
+	
+													<td x:str>NCSN-FO</td>
+	
+													<td x:str>657165</td>
+	
+													<td x:str>657165</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>26/02/20 14:27:37</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>26/02/20 16:40:52</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>959833</td>
+	
+													<td x:str>sin&nbsp;servicio</td>
+	
+													<td x:str>U610106</td>
+	
+													<td x:str>30546741253</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>RESOLVED</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>APEAMBAPRB</td>
+	
+													<td x:str>3412506762</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>28/02/20 17:16:05</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>2/03/20 18:06:07</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>980038</td>
+	
+													<td x:str>SIN&nbsp;SERVICIO</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>30709447846</td>
+	
+													<td x:num>1</td>
+	
+													<td x:str>CANCEL</td>
+	
+													<td x:str>U196458</td>
+	
+													<td x:str>Fernandez&nbsp;Leonardo</td>
+	
+													<td x:str>NCSN-PE</td>
+	
+													<td x:str>252110</td>
+	
+													<td x:str>252110</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>6/03/20 11:05:47</td>
+	
+														<td align="right" style='mso-number-format:"\[$-409\]m\/d\/yy\\ h\:mm\\ AM\/PM\;\@";' x:num>6/03/20 12:00:53</td>
+	
+	 									</tr>
+		
+					</table>
+				</body>
+			</html>
