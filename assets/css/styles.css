@@ -96,7 +96,6 @@ h2{
     position: fixed;
     top: 0;
     z-index: 100;
-    margin-bottom: 4rem;
     width: 100%;
     
 }
@@ -109,7 +108,7 @@ h2{
     width: 20rem;
 }
 
-#nav-bar ul{
+#nav-bar{
     list-style: none;
     display: flex;
     justify-content: space-around;
@@ -130,14 +129,46 @@ h2{
     border-bottom: 2px solid #f2efdb;
 }
 
-.navbar-light .navbar-toggler{
-    border: none;
+/*Btn para el navbar responsibe*/
+
+.btnNavbarContainer{
+    cursor: pointer;
+    margin-bottom: .5rem;
+    display: none;
 }
 
-.navbar-light .navbar-toggler-icon{
-    background-image: url(../img/hamburger-menu.png);
+.btnNavbar, .btnNavbar::before, .btnNavbar::after{
+    content: ' ';
+    display: inline-block;
     width: 3rem;
-    height: 3rem;
+    height: .5rem;
+    background-color: #f2efdb;
+    border-radius: .5rem;
+    position: relative;
+    transition: ease .5s;
+}
+
+.btnNavbar::before{
+    position: absolute;
+    top: 1rem;
+}
+
+.btnNavbar::after{
+    position: absolute;
+    top: -1rem;
+}
+
+.btnNavbarOpen{
+    transform: rotate(135deg);
+}
+
+.btnNavbarOpen::before{
+    transform: rotate(90deg);
+    top: 0;
+}
+
+.btnNavbarOpen::after{
+    display: none;
 }
 
 button:focus{
@@ -470,6 +501,38 @@ button:focus{
 /**Media queries**/
 
 @media screen and (max-width: 780px){
+
+    /**Navbar**/
+
+    #header{
+        position: relative;
+    }
+
+    .nav{
+        position: absolute;
+        background-color: #45b6ed;
+        height: 100vh;
+        width: 100%;
+        top: 0;
+        left: 0;
+        clip-path: circle(0.0% at 51% 0);
+        transition: ease-out .5s;
+    }
+
+    .navbar-nav{
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        height: 100%;
+    }
+
+    .navbarOpen{
+        clip-path: circle(120.0% at 51% 0);
+    }
+
+    .btnNavbarContainer{
+        display: block;
+    }
 
     /**Generals**/
 
